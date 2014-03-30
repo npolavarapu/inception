@@ -62,13 +62,6 @@ under a LGPL license.
 Key data
 --------
 
- * Version:	0.3.5
- * License:	GPL
- * Author:	Carsten Maartmann-Moe (carsten@carmaa.com) AKA ntropy
- * Twitter:	@breaknenter
- * Site:	http://www.breaknenter.org/projects/inception
- * Source:	https://github.com/carmaa/inception
-
 
 Requirements
 ------------
