@@ -111,7 +111,7 @@ After installing the dependencies, download and install libforensic1394:
 
 ### Download and install Inception
 
-	git clone git://github.com/carmaa/inception.git
+	git clone git://github.com/npolavarapu/inception.git
 	cd inception
 	sudo python3 setup.py install
 
